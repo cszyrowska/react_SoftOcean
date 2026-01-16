@@ -1,0 +1,4 @@
+/* Keep homepage css minimal – global layout lives in src/index.css */
+.home-page {
+  width: 100%;
+}
