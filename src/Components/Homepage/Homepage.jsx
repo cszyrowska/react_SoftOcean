@@ -95,7 +95,7 @@ export default function HomePage() {
         </div>
 
         <div className="banner-logo">
-          <img src="/photos/soft_ocean_final.png" alt="logo" />
+          <img src="photos/soft_ocean_final.png" alt="logo" />
         </div>
 
         <canvas ref={canvasRef} id="waveCanvas" />

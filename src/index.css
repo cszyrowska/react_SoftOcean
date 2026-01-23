@@ -21,7 +21,7 @@ body, html {
   position: relative;
   width: 100%;
   height: 100vh;
-  background-image: url("/photos/background.png");
+  background-image: url("photos/background.png");
   background-size: cover;
   background-position: center;
 }
@@ -157,7 +157,7 @@ body, html {
 
 /* last about column image */
 .about-row .about-col:last-child {
-  background-image: url("/photos/workingonlaptop.jpg");
+  background-image: url("photos/workingonlaptop.jpg");
   background-size: cover;
   background-position: center;
   height: 380px;

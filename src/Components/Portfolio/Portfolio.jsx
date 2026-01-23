@@ -23,7 +23,7 @@ export default function Portfolio() {
         </div>
 
         <div className="portfolio-img">
-          <img src="/photos/Untitled13_20240529131252 (1).png" alt="Aims" />
+          <img src="photos/Untitled13_20240529131252 (1).png" alt="Aims" />
         </div>
       </div>
     </section>

@@ -8,7 +8,7 @@ export default function Projects() {
           <div className="projects-grid">
             <div className="project-item">
               <img
-                src="/photos/Screenshot 2024-05-29 124455.png"
+                src="photos/Screenshot 2024-05-29 124455.png"
                 alt="Project 1"
                 className="project-img"
               />
@@ -28,7 +28,7 @@ export default function Projects() {
 
             <div className="project-item">
               <img
-                src="/photos/ToneKP_2_1_zoom.png"
+                src="photos/ToneKP_2_1_zoom.png"
                 alt="Project 2"
                 className="project-img"
               />
@@ -47,7 +47,7 @@ export default function Projects() {
 
             <div className="project-item">
               <img
-                src="/photos/2024-05-13_19-33.png"
+                src="photos/2024-05-13_19-33.png"
                 alt="Project 3"
                 className="project-img"
               />
@@ -73,11 +73,11 @@ export default function Projects() {
           <h2>EMI Creation</h2>
           <div className="gallery-grid">
             <div className="gallery-item">
-              <img src="/photos/Screenshot 2024-05-29 124417.png" alt="EMI 1" />
+              <img src="photos/Screenshot 2024-05-29 124417.png" alt="EMI 1" />
               <p className="image-caption">electromagnetic induction (EMI) instrument</p>
             </div>
             <div className="gallery-item">
-              <img src="/photos/Screenshot 2024-05-29 124443.png" alt="EMI 2" />
+              <img src="photos/Screenshot 2024-05-29 124443.png" alt="EMI 2" />
               <p className="image-caption">electromagnetic induction (EMI) instrument</p>
             </div>
           </div>
@@ -90,24 +90,24 @@ export default function Projects() {
           <h2>Sylt Data Analysis Gallery</h2>
           <div className="gallery-grid">
             <div className="gallery-item">
-              <img src="/photos/singleLineData.png" alt="Sylt 1" />
+              <img src="photos/singleLineData.png" alt="Sylt 1" />
               <p className="image-caption">a single line and more clearly visible anomaly</p>
             </div>
             <div className="gallery-item">
-              <img src="/photos/image.png" alt="Sylt 2" />
+              <img src="photos/image.png" alt="Sylt 2" />
               <p className="image-caption">
                 all covered paths and collected amplitudes value across the survey
               </p>
             </div>
             <div className="gallery-item">
-              <img src="/photos/ToneKP_2_1_zoom.png" alt="Sylt 3" />
+              <img src="photos/ToneKP_2_1_zoom.png" alt="Sylt 3" />
               <p className="image-caption">
                 Following the cable path with an SCT sensors show a distinct drop in the signal.
                 Usually, such drops indicate cable’s shunt fault.
               </p>
             </div>
             <div className="gallery-item">
-              <img src="/photos/2024-05-13_19-54.png" alt="Sylt 4" />
+              <img src="photos/2024-05-13_19-54.png" alt="Sylt 4" />
               <p className="image-caption">
                 This shows the crossing line around the assumed leakage. It can be observed that the
                 amplitude rises where the boat crosses the cable path.
@@ -124,7 +124,7 @@ export default function Projects() {
           <div className="gallery-grid">
             <div className="gallery-item">
               <img
-                src="/photos/2024-05-13_19-35.png"
+                src="photos/2024-05-13_19-35.png"
                 alt="Geo 1"
                 className="interactive-image"
                 data-url="/GeomaresSylt.html"
@@ -133,7 +133,7 @@ export default function Projects() {
             </div>
             <div className="gallery-item">
               <img
-                src="/photos/2024-05-13_19-36.png"
+                src="photos/2024-05-13_19-36.png"
                 alt="Geo 2"
                 className="interactive-image"
                 data-url="/vis_path_amp.html"
